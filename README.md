@@ -16,6 +16,8 @@ Integrantes:
 
  - Verjan Santoyo Edgar
  
+ ![](http://images.kuoni.co.uk/73/dubai-39699597-1508946889-ImageGalleryLightboxLarge.jpg)
+ 
 Grupo: 410
 
 ## ¿Qué es?
