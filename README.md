@@ -20,7 +20,7 @@ Grupo: 410
 
  ![](http://images.kuoni.co.uk/73/dubai-39699597-1508946889-ImageGalleryLightboxLarge.jpg)
 
-## ¿Qué es?
+### ¿Qué es?
 
 Dubái es uno de los siete estados que forman los Emiratos Árabes Unidos; a su vez, es el nombre que recibe la capital de este Estado. Con una superficie de unos 1500 km2 se encuentra dividida en dos por el arroyo conocido bajo el nombre de Dubai Creek. Ambas regiones reciben las nominaciones de Deira (al Norte) y Bur Dubai (al Sur). Cabe mencionar que es la segunda ciudad más importante de la región y una de las metrópolis con la economía más sólida del mundo.
 
