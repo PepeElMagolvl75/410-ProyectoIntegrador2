@@ -1,5 +1,17 @@
 # Dubai
-Integrantes: Arce Montoya Jose Antonio, Flores Azcona Abraham Jhared, Montalvo Patiño Orlando, Verjan Santoyo Edgar
+Integrantes: 
+ - Arce Montoya Jose Antonio
+   
+ - Flores Azcona Abraham Jhared
+
+   
+
+ - Montalvo Patiño Orlando
+
+   
+
+ - Verjan Santoyo Edgar
+ 
 Grupo: 410
 
 <a href="http://es.cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Generador de Logotipos y Gráficos." border="0" /></a>
