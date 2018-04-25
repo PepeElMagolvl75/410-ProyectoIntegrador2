@@ -30,9 +30,5 @@ Junto a Abu Dhabi (sede del gobierno), Dubái es una de las ciudades fundamental
 
 ![](http://www.viajar-dubai.com/img/informacion-general-dubai.jpg)
 
-Para ver más:
+Para ver más [Dubaipedia](https://github.com/PepeElMagolvl75/410-ProyectoIntegrador2-Mesa-1/wiki/Dubai)
 
-- [Economía](https://pepeelmagolvl75.github.io/410-ProyectoIntegrador2-Mesa-1/Economía)
-- ArquitecturaE
-- Historia
-- Religión
