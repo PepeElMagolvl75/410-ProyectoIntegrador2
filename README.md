@@ -29,3 +29,10 @@ Pero antes de pasar a contarte todos los detalles respecto a su historia, creemo
 Junto a Abu Dhabi (sede del gobierno), Dubái es una de las ciudades fundamentales de los Emiratos Árabes, siendo la sede de la industria petrolera y el principal eje del comercio de la región. Su población ha alcanzado en los últimos años los 800.000 habitantes, representando más del 80% de la población de todo el país.
 
 ![](http://www.viajar-dubai.com/img/informacion-general-dubai.jpg)
+
+Para ver más:
+
+- [Economía](
+- Arquitectura
+- Historia
+- Religión
