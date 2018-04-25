@@ -32,7 +32,7 @@ Junto a Abu Dhabi (sede del gobierno), Dubái es una de las ciudades fundamental
 
 Para ver más:
 
-- [Economía](
-- Arquitectura
+- [Economía](https://pepeelmagolvl75.github.io/410-ProyectoIntegrador2-Mesa-1/Economía)
+- ArquitecturaE
 - Historia
 - Religión
