@@ -1,4 +1,4 @@
-# Economia
+# Economía
 
 Moneda
 La moneda oficial de Dubái es el dirham (Dh, AED). Cada dirham se divide en 100 fils.
