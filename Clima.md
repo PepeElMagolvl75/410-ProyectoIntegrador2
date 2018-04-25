@@ -4,4 +4,4 @@ Dubái presenta un clima tropical desértico debido a su localización en los tr
 
 ![](https://image.slidesharecdn.com/dubaipedrovicentemarnsereno2a-120410110905-phpapp02/95/dubai-4-728.jpg?cb=1334056268)
 
-Ver mas en: [Dubaipedia](https://pepeelmagolvl75.github.io/410-ProyectoIntegrador2-Mesa-1/)
+Ver mas en: [Dubaipedia](https://pepeelmagolvl75.github.io/410-ProyectoIntegrador2-Mesa-1/Clima)
