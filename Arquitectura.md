@@ -1,11 +1,16 @@
 # 5 Edificios Más Importantes:
 
-- Dubai Fountain: Es un sistema de fuentes situadas alrededor del Burj Khalifa, junto al centro comercial Dubai Mall, es la fuente más grande del mundo con música y grandes coreografías
+- Dubai Fountain: 
+![](http://estaticos01.marca.com/blogs/paralelo20/imagenes_posts/2017/03/14/181040_570x379.jpg)
 
-- Burj Khalifa: Es el edificio más alto del mundo con 828 metros y 163 plantas. Se puede subir al rescacielos que cuenta con un balcón con visión 360º. La duración de visita aproximada es de 60 a 90 minutos.
+- Burj Khalifa: 
+![](http://estaticos02.marca.com/blogs/paralelo20/imagenes_posts/2017/03/14/181041_570x356.jpg)
 
-- Burj Al Arab: Una obra maestra de la arquitectura contemporánea y considerado el hotel más lujoso del mundo y el único con 7 estrellas. Es necesario reserva.
+- Burj Al Arab: 
+![](http://estaticos03.marca.com/blogs/paralelo20/imagenes_posts/2017/03/14/181042_570x476.jpg)
 
 - Dubai Marina: 
+![](http://estaticos03.marca.com/blogs/paralelo20/imagenes_posts/2017/03/14/181042_570x476.jpg)
 
 - Madinat Jumeriah: 
+![](http://estaticos01.marca.com/blogs/paralelo20/imagenes_posts/2017/03/14/181044_570x253.jpg)
